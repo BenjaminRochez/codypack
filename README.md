@@ -1,4 +1,4 @@
-# Starterpack
+# Codypack
 ## Installation
 
 npm install
@@ -42,5 +42,3 @@ npm install
 * Include Yarn workflow
 * Image optimization workflow
 * Task production folder creation
-
-# codypack
