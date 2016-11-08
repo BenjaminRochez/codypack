@@ -1,7 +1,7 @@
 # Starterpack
 ## Installation
 
-npm install --save-dev gulp coffee-script gulp-load-plugins gulp-sass gulp-size gulp-autoprefixer gulp-image-resize gulp-changed gulp-imagemin browser-sync gulp-uglify gulp-plumber gulp-rename gulp-clean-css susy breakpoint-sass
+npm install
 
 ## Naming / CSS organisation
 
@@ -36,10 +36,11 @@ npm install --save-dev gulp coffee-script gulp-load-plugins gulp-sass gulp-size 
 ```
 
 ## Todo
-* Add susygrid
+* ~~Add susygrid~~
 * Button mixins
 * Breackpoint mixins
 * Include Yarn workflow
 * Image optimization workflow
 * Task production folder creation
+
 # codypack
