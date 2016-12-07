@@ -38,7 +38,7 @@ npm install
 ## Todo
 * ~~Add susygrid~~
 * Button mixins
-* Breackpoint mixins
-* Include Yarn workflow
+* ~~Breackpoint mixins~~
+* ~~Include Yarn workflow~~
 * Image optimization workflow
 * Task production folder creation
